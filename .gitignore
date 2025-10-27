@@ -1,0 +1,5 @@
+pipfile
+pipfile.lock
+__pycache__/
+*.pyc
+db.sqlite3
